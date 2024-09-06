@@ -10,9 +10,9 @@
 
 ⚡ Data Analytics:
 - Advance Queensland program:
-   [View](https://github.com/yunghsineva/Data-Science/blob/a6e01ef880354cfc24e342a7df934af0195c4c37/Data%20Analytics%20-%20Advance%20Queensland%20program.ipynb)
+   [View](https://github.com/yunghsineva/Data-Science/blob/main/Data%20Analytics%20-%20Advance%20Queensland%20program.ipynb)
 - Advance Queensland program - Extendeing analytics:
-  [View](https://github.com/yunghsineva/Data-Science/blob/a6e01ef880354cfc24e342a7df934af0195c4c37/Extending%20Analytics%20-%20Advance%20Queensland%20program.ipynb)
+  [View](https://github.com/yunghsineva/Data-Science/blob/main/Extending%20Analytics%20-%20Advance%20Queensland%20program.ipynb)
   
 ⚡ Data Visualization: Tableau Dashboard:
   This is a project on Tableau Public displaying crime data in Springfield, USA, from 1998 to 2019.  [View the Tableau Dashboard](https://public.tableau.com/app/profile/yung.hsin.lin/viz/CrimesinUSASpringfieldfrom1998to2019/Final#1)
