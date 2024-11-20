@@ -18,8 +18,8 @@
   This is a project on Tableau Public displaying crime data in Springfield, USA, from 1998 to 2019.  [View the Tableau Dashboard](https://public.tableau.com/app/profile/yung.hsin.lin/viz/CrimesinUSASpringfieldfrom1998to2019/Final#1)
 
 ⚡ Automated Fungi Classification with Machine learning:
-- Code:[View](https://github.com/yunghsineva/Data-Science/blob/c4a059dcb8d1cc9f6766cd85936b085d62f3007a/Automated%20Fungi%20Classification%20(DINOv2%20%2B%20DNN).ipynb)
-- Presentation:
+- Code: [View](https://github.com/yunghsineva/Data-Science/blob/c4a059dcb8d1cc9f6766cd85936b085d62f3007a/Automated%20Fungi%20Classification%20(DINOv2%20%2B%20DNN).ipynb)
+- Presentation: [View](https://github.com/yunghsineva/Data-Science/blob/ff5b6f9520111c3a217e62a0f6cdba4d714654e5/Fungi%20classification.pdf)
 
 ⚡  
 <!---
