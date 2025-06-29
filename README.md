@@ -13,7 +13,7 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
 
 ## Project
 
-### ⚡[Advance Queensland program](https://github.com/yunghsineva/Data-Science/blob/main/Data%20Analytics%20-%20Advance%20Queensland%20program.ipynb) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
+### ⚡[Advance Queensland program - Data Analytics Project](https://github.com/yunghsineva/Advance-Queensland-program) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
 
 > Academic assessment, _Feb 2024 - May 2023_
   
