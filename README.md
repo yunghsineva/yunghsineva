@@ -13,6 +13,19 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
 
 ## Project
 
+### ⚡[Unlocking Queensland Imagery Data](https://github.com/yunghsineva/Unlocking-Queensland-Imagery-Data)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-CCCCCC?logo=pytorch&logoColor=ee4c2c&style=flat) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-CCCCCC?logo=googlecloud&logoColor=4285F4&style=flat)
+
+> Industry project, _Mar 2025 - Jun 2025_
+- Deep learning segmentation model using PyTorch in Vertex AI on Google Cloud to extract building footprints from high-resolution RGB aerial imagery.
+- Segmentation using Mask2Former and the Segment Anything Model (SAM), producing vector polygons compatible with existing geospatial mapping systems.
+
+### ⚡[Anomaly Detection for Water Meter Monitoring with Machine Learning](https://github.com/yunghsineva/Anomaly-Detection-for-Water-Meter-Monitoring-with-Machine-Learning.git)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-CCCCCC?logo=tensorflow&logoColor=FF6F00&style=flat)
+
+> Research project, _Aug 2024 - Nov 2024_
+
+### ⚡[Automated Fungi Classification with Machine learning](https://github.com/yunghsineva/Automated-Fungi-Classification-with-Machine-learning.git)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-CCCCCC?logo=pytorch&logoColor=ee4c2c&style=flat)
+> Academic assessment, _Aug 2024 - Sep 2024_
+
 ### ⚡[Advance Queensland program - Data Analytics Project](https://github.com/yunghsineva/Advance-Queensland-program) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
 
 > Academic assessment, _Feb 2024 - May 2023_
@@ -23,11 +36,7 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
   - Designed an interactive Tableau dashboard with customized filters to analyze injury-related crimes across Springfield from 1998–2019, enabling cross-comparison of trends by stakeholder need.
   - Identified key insights and highlighted demographic patterns of offenders and victims to support targeted policy recommendations.
 
-### ⚡ [Automated Fungi Classification with Machine learning](https://github.com/yunghsineva/Automated-Fungi-Classification-with-Machine-learning.git)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-CCCCCC?logo=pytorch&logoColor=ee4c2c&style=flat)
-> Academic assessment, _Aug 2024 - Sep 2024_
 
-### ⚡ [Unlocking-Queensland-Imagery-Data](https://github.com/yunghsineva/Unlocking-Queensland-Imagery-Data)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-CCCCCC?logo=pytorch&logoColor=ee4c2c&style=flat) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-CCCCCC?logo=googlecloud&logoColor=4285F4&style=flat)
 
-> Industry project, _Mar 2025 - Jun 2024_
-- Deep learning segmentation model using PyTorch in Vertex AI on Google Cloud to extract building footprints from high-resolution RGB aerial imagery.
-- Segmentation using Mask2Former and the Segment Anything Model (SAM), producing vector polygons compatible with existing geospatial mapping systems.
+
+
