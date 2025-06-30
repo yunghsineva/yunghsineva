@@ -5,7 +5,7 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
 
 🎓 I'm currently completing a Master of Information Technology (Data Science major) at Queensland University of Technology (QUT), with a GPA of 6/7.
 
-💼 I'm also working as an Assistant Data Analyst at QUT, gaining hands-on experience in real-world data projects.
+💼 I'm also working as a Casual Data Analyst at QUT, gaining hands-on experience in real-world data projects.
 
 📫 Email: yunghsin0515@gmail.com
 
