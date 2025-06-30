@@ -28,6 +28,6 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
 
 ### ⚡ [Unlocking-Queensland-Imagery-Data](https://github.com/yunghsineva/Unlocking-Queensland-Imagery-Data)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-CCCCCC?logo=pytorch&logoColor=ee4c2c&style=flat) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-CCCCCC?logo=googlecloud&logoColor=4285F4&style=flat)
 
-> Academic assessment, _Mar 2025 - Jun 2024_
+> Industry project, _Mar 2025 - Jun 2024_
 - Deep learning segmentation model using PyTorch in Vertex AI on Google Cloud to extract building footprints from high-resolution RGB aerial imagery.
 - Segmentation using Mask2Former and the Segment Anything Model (SAM), producing vector polygons compatible with existing geospatial mapping systems.
