@@ -28,7 +28,7 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
 
 ### ⚡[Advance Queensland program - Data Analytics Project](https://github.com/yunghsineva/Advance-Queensland-program) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
 
-> Academic assessment, _Feb 2024 - May 2023_
+> Academic assessment, _Feb 2023 - May 2023_
   
 ### ⚡[Crime Analysis Visualization](https://public.tableau.com/app/profile/yung.hsin.lin/viz/CrimesinUSASpringfieldfrom1998to2019/Final#1) ![Tableau](https://img.shields.io/badge/Tableau-CCCCCC?logo=tableau&logoColor=blue&style=flat)  
 > Academic assessment, _Aug 2023 - Oct 2023_
