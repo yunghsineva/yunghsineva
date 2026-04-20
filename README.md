@@ -36,7 +36,7 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
   - Designed an interactive Tableau dashboard with customized filters to analyze injury-related crimes across Springfield from 1998–2019, enabling cross-comparison of trends by stakeholder need.
   - Identified key insights and highlighted demographic patterns of offenders and victims to support targeted policy recommendations.
 
-
-
+### ⚡[Bank Churn Analysis](https://github.com/yunghsineva/Bank-Churn-Analysis) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
+> Personal Project, _Apr 2026_
 
 
