@@ -13,6 +13,9 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
 
 ## Project
 
+### ⚡[Bank Churn Analysis](https://github.com/yunghsineva/Bank-Churn-Analysis) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
+> Personal Project, _Apr 2026_
+> 
 ### ⚡[Unlocking Queensland Imagery Data](https://github.com/yunghsineva/Unlocking-Queensland-Imagery-Data)  ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-CCCCCC?logo=jupyter&logoColor=orange&style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-CCCCCC?logo=pytorch&logoColor=ee4c2c&style=flat) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-CCCCCC?logo=googlecloud&logoColor=4285F4&style=flat)
 
 > Industry project, _Mar 2025 - Jun 2025_
@@ -36,7 +39,6 @@ I'm a passionate enthusiast in Data Analytics and Data Science, with strong inte
   - Designed an interactive Tableau dashboard with customized filters to analyze injury-related crimes across Springfield from 1998–2019, enabling cross-comparison of trends by stakeholder need.
   - Identified key insights and highlighted demographic patterns of offenders and victims to support targeted policy recommendations.
 
-### ⚡[Bank Churn Analysis](https://github.com/yunghsineva/Bank-Churn-Analysis) ![Python](https://img.shields.io/badge/Python-CCCCCC?logo=python&logoColor=blue&style=flat)
-> Personal Project, _Apr 2026_
+
 
 
